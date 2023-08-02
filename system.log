@@ -1,0 +1,177 @@
+Aug  2 00:00:00 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 00:11:02 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 00:21:36 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 00:30:05 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 00:30:05 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 00:30:05 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Aug  2 00:30:05 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Aug  2 00:30:05 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 00:30:05 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 00:30:05 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 00:30:05 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 00:30:05 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 00:30:05 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 00:30:05 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Aug  2 00:30:05 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 00:30:05 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 00:32:26 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 00:45:32 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 01:02:28 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 01:13:20 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 01:27:49 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 01:48:37 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 01:59:06 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 02:11:03 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 02:21:31 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 02:33:37 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 02:44:53 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 02:56:48 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 03:13:06 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 03:30:33 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 03:43:48 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 03:55:39 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 04:13:42 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 04:23:58 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 04:40:29 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 04:51:30 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 05:03:13 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 05:18:37 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 05:33:37 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 05:48:37 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 06:01:49 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 06:12:58 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 06:23:03 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 06:33:37 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 06:47:15 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 06:49:31 shou-tzudeMacBook-Pro awdd[419]: Diagnostics Report
+Aug  2 06:50:01 --- last message repeated 1 time ---
+Aug  2 06:58:44 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 07:10:52 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 07:21:37 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 07:33:37 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 07:48:37 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 08:01:07 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 08:10:14 shou-tzudeMacBook-Pro login[76330]: DEAD_PROCESS: 76330 ttys012
+Aug  2 08:10:33 shou-tzudeMacBook-Pro login[77589]: DEAD_PROCESS: 77589 ttys013
+Aug  2 08:10:33 shou-tzudeMacBook-Pro login[93529]: DEAD_PROCESS: 93529 ttys014
+Aug  2 08:10:33 shou-tzudeMacBook-Pro login[89724]: DEAD_PROCESS: 89724 ttys003
+Aug  2 08:11:07 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 08:17:21 shou-tzudeMacBook-Pro bootlog[0]: BOOT_TIME 1690978641 938964
+Aug  2 08:17:40 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 08:17:40 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 08:17:40 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Aug  2 08:17:40 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Aug  2 08:17:40 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 08:17:40 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 08:17:40 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 08:17:40 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 08:17:40 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 08:17:40 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 08:17:40 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Aug  2 08:17:40 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 08:17:40 shou-tzudeMacBook-Pro syslogd[322]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Aug  2 08:17:41 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: Clearing phase info
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: calling progress app remoteObjectProxy
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: Creating connection
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: Connection = 0x6000001a0320, callers = (
+	    "<IASUPCaller: 0x6000032a0990>"
+	)
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: version = 2
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: isModernOS = 1
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: Add phase named "IOKit Boot", progress 2.441406, delayInSeconds 0
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: Add phase named "loginwindow Boot", progress 97.558594, delayInSeconds -1
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: Connection = 0x6000001a0320, callers = (
+	    "<IASUPCaller: 0x6000032a0990>",
+	    "<IASUPCaller: 0x6000032bc690>"
+	)
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: client 0x60000258de80: phaseName = "loginwindow Boot", registering connection
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: client 0x60000258de80: phaseName = "loginwindow Boot" was created
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: Connection = 0x6000001a0320, callers = (
+	    "<IASUPCaller: 0x6000032a0990>",
+	    "<IASUPCaller: 0x6000032bc690>",
+	    "<IASUPCaller: 0x6000032bc6a0>"
+	)
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: client 0x60000258e000: phaseName = "IOKit Boot", registering connection
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: client 0x60000258e000: phaseName = "IOKit Boot" was created
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: client 0x60000258e000: phaseName = "IOKit Boot", show progress UI called
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: ISAP: Show progress UI called
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: client 0x60000258e000: phaseName = "IOKit Boot" is done
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: ISAP: Done with Phase "IOKit Boot"
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: client 0x60000258e000: phaseName = "IOKit Boot" is being released
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: Releasing Connection
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: client 0x60000258de80: handler = 0x600003e9b060
+Aug  2 08:17:42 shou-tzudeMacBook-Pro loginwindow[359]: USER_PROCESS: 359 console
+Aug  2 08:17:46 shou-tzudeMacBook-Pro loginwindow[359]: client 0x60000258de80: phaseName = "loginwindow Boot" is done
+Aug  2 08:17:46 shou-tzudeMacBook-Pro loginwindow[359]: ISAP: Done with Phase "loginwindow Boot"
+Aug  2 08:17:47 shou-tzudeMacBook-Pro AMPDeviceDiscoveryAgent[641]: tid:103 - (null)
+Aug  2 08:17:47 shou-tzudeMacBook-Pro loginwindow[359]: Calling completion handler for 0x60000258de80
+Aug  2 08:17:47 shou-tzudeMacBook-Pro loginwindow[359]: client 0x60000258de80: phaseName = "loginwindow Boot" is already done
+Aug  2 08:17:47 shou-tzudeMacBook-Pro loginwindow[359]: client 0x60000258de80: phaseName = "loginwindow Boot", hide progress UI called
+Aug  2 08:17:47 shou-tzudeMacBook-Pro loginwindow[359]: ISAP: hide progress UI called
+Aug  2 08:17:47 shou-tzudeMacBook-Pro loginwindow[359]: client 0x60000258de80: phaseName = "loginwindow Boot" is being released
+Aug  2 08:17:47 shou-tzudeMacBook-Pro loginwindow[359]: Releasing Connection
+Aug  2 08:17:52 shou-tzudeMacBook-Pro loginwindow[359]: The connection was interrupted, calling interruption handlers
+Aug  2 08:18:42 shou-tzudeMacBook-Pro loginwindow[359]: There is still an active connection
+Aug  2 08:19:17 --- last message repeated 1 time ---
+Aug  2 08:27:41 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 08:38:13 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 08:51:03 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 09:02:39 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 09:13:20 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 09:29:37 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 09:44:14 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 09:57:05 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
+Aug  2 10:07:15 shou-tzudeMacBook-Pro syslogd[322]: ASL Sender Statistics
