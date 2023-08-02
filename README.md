@@ -1,4 +1,4 @@
-# Log-Analyzer
+# Log Analyzer
 Log Analyzer is a shell script designed to simplify the process of analyzing and understanding log files. By extracting key data points from your log files, such as timestamps of specific events and their frequency, it provides insights into your system's operations and potential issues.
 
 ## Features
